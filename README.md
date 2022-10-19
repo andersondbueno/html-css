@@ -5,7 +5,7 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 # Desafio e Projetos do Curso
 
 <ul>
-<li> Desafio 1 - Desafio das Mensagens</li>
+<li> Desafio 1 - <a href="https://andersondbueno.github.io/html-css/exercicios/ex001/index.html">Desafio das Mensagens</a></li>
 <li> Desafio 2 - Desafio das Imagens</li>
 <li> Desafio 3 - Desafio do Mapa</li>
 <li> Desafio 4 - Meus Emojis Favoritos</li>
