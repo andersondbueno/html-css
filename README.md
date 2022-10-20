@@ -15,5 +15,5 @@ Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 <li> Desafio 8 - <a href="https://andersondbueno.github.io/html-css/desafios/d008/index.html">Desafio da Navegação</a></li>
 <li> Desafio 9 - <a href="https://andersondbueno.github.io/html-css/desafios/d009/index.html">Videos legais para assistir</a></li>
 <li> Desafio 10 - <a href="https://andersondbueno.github.io/html-css/desafios/d010/android.html">Projeto Android</a></li>
-<li> Desafio 11 - Desafio do Astronauta</li>
+<li> Desafio 11 - <a href="https://andersondbueno.github.io/html-css/desafios/d011/index.html">Desafio do Astronauta</a></li>
 </ul>
